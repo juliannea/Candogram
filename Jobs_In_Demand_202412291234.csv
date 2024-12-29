@@ -1,0 +1,122 @@
+"JobTitleID","JobTitle","EmployerCount","JobCount","AvgAnnualWage","RequiredEducation","City","StateCode","TrackingMonth","TrackingYear"
+3,DevOps,49,90,114000,mostly college,New York City,NY,11,2022
+4,Machine Learning / AI,78,181,122700,mostly college,New York City,NY,11,2022
+5,Robotics,9,12,94700,mostly college,New York City,NY,11,2022
+6,Data Analysis,173,377,109300,mostly college,New York City,NY,11,2022
+7,Cyber Security,70,113,120500,mostly college,New York City,NY,11,2022
+9,Accounting,232,545,85400,mostly college,New York City,NY,11,2022
+10,Finance,363,1137,129800,mostly college,New York City,NY,11,2022
+11,Human Resources,98,123,91700,mostly college,New York City,NY,11,2022
+14,Back End Software Developer,28,47,101500,mostly college,New York City,NY,11,2022
+15,Front End Software Developer,31,97,83300,mostly college,New York City,NY,11,2022
+16,Full Stack Software Developer,81,222,101800,mostly college,New York City,NY,11,2022
+17,Block Chain Software Developer,9,21,120200,mostly college,New York City,NY,11,2022
+19,Cloud Software Developer,32,71,102100,mostly college,New York City,NY,11,2022
+20,Cloud Sales,6,20,123500,mostly college,New York City,NY,11,2022
+21,Software Testing,6,7,110200,mostly college,New York City,NY,11,2022
+22,Embedded Software / Hardware Engineering,11,19,107900,mostly college,New York City,NY,11,2022
+23,Computer Support,46,74,97100,mostly college,New York City,NY,11,2022
+24,Mobile Software Developer,9,14,101000,mostly college,New York City,NY,11,2022
+26,Quality Assurance,87,144,96700,mostly college,New York City,NY,11,2022
+27,Data Science,54,139,115700,mostly college,New York City,NY,11,2022
+28,UX/UI Product Design,79,161,104400,mostly college,New York City,NY,11,2022
+29,Cloud Architect,61,150,111600,mostly college,New York City,NY,11,2022
+32,Software Architect,46,145,104200,mostly college,New York City,NY,11,2022
+33,Software Engineer,149,915,110900,mostly college,New York City,NY,11,2022
+34,Software Developer,91,402,100800,mostly college,New York City,NY,11,2022
+35,Programmer,50,89,96900,mostly college,New York City,NY,11,2022
+36,Delivery Driver,43,469,37900,mostly high school,New York City,NY,11,2022
+37,Store Manager,91,652,91000,mostly high school,New York City,NY,11,2022
+38,Truck Driver,63,162,40600,mostly high school,New York City,NY,11,2022
+39,Pharmacy Technician,40,841,48600,mostly high school,New York City,NY,11,2022
+40,Customer Service Representative,79,278,50300,mostly high school,New York City,NY,11,2022
+41,Cook,95,597,31500,mostly high school,New York City,NY,11,2022
+42,Nursing Assistant,90,598,38400,mostly high school,New York City,NY,11,2022
+43,Project Manager,203,515,129400,mostly college,New York City,NY,11,2022
+44,Barista,18,504,31400,mostly college,New York City,NY,11,2022
+45,Retail Associate,40,1086,35300,mostly high school,New York City,NY,11,2022
+46,Cashier,44,445,33000,mostly college,New York City,NY,11,2022
+47,Systems Engineer,61,187,109800,mostly college,New York City,NY,11,2022
+48,Medical Assistant,65,570,58400,mostly high school,New York City,NY,11,2022
+49,Management Trainee,8,421,81000,mostly high school,New York City,NY,11,2022
+50,Administrative Assistant / Receptionist,230,944,53200,mostly high school,New York City,NY,11,2022
+51,Mechanic,97,226,59500,mostly high school,New York City,NY,11,2022
+52,Aircraft Mechanic,1,1,71900,mostly high school,New York City,NY,11,2022
+53,Business Analyst,125,348,113600,mostly college,New York City,NY,11,2022
+54,Service Technician,131,256,58200,mostly high school,New York City,NY,11,2022
+55,Program Manager,113,298,129100,mostly college,New York City,NY,11,2022
+57,Teacher,74,332,64300,mostly college,New York City,NY,11,2022
+58,Security Officer,58,462,56500,mostly high school,New York City,NY,11,2022
+59,Product Manager,112,308,142900,mostly college,New York City,NY,11,2022
+60,Account Manager / Account Executive,246,490,117700,mostly college,New York City,NY,11,2022
+61,Physician,74,627,136600,mostly college,New York City,NY,11,2022
+62,Architect,85,310,111800,mostly college,New York City,NY,11,2022
+63,Housekeeper,56,221,42400,mostly high school,New York City,NY,11,2022
+64,Clinical Nurse,44,421,87100,mostly college,New York City,NY,11,2022
+65,Tax Accountant,109,1198,97500,mostly college,New York City,NY,11,2022
+66,Physical Therapist,61,301,61900,mostly college,New York City,NY,11,2022
+67,Financial Analyst,94,209,114900,mostly college,New York City,NY,11,2022
+68,Electrician,28,42,66600,mostly high school,New York City,NY,11,2022
+69,Social Worker,90,407,57200,mostly college,New York City,NY,11,2022
+70,Warehouse Associate,43,79,34400,mostly high school,New York City,NY,11,2022
+71,Merchandiser,34,313,33200,mostly high school,New York City,NY,11,2022
+72,Design Engineer,28,51,107100,mostly college,New York City,NY,11,2022
+73,Electrical Engineer,29,68,89500,mostly college,New York City,NY,11,2022
+74,Machine Operator,9,27,36900,mostly high school,New York City,NY,11,2022
+75,Dishwasher,32,139,28100,mostly high school,New York City,NY,11,2022
+76,Banker,33,317,108300,mostly high school,New York City,NY,11,2022
+77,Pharmacist,35,397,81900,mostly college,New York City,NY,11,2022
+78,Health Care Aide,22,127,34500,mostly high school,New York City,NY,11,2022
+79,Patient Care Technician,20,198,48200,mostly high school,New York City,NY,11,2022
+80,Mechanical Engineer,57,168,99300,mostly college,New York City,NY,11,2022
+81,Lawyer / Attorney,42,114,120300,mostly college,New York City,NY,11,2022
+82,Machinist,11,22,51900,mostly high school,New York City,NY,11,2022
+83,Teller,15,103,57700,mostly high school,New York City,NY,11,2022
+84,Bartender,27,95,35800,mostly high school,New York City,NY,11,2022
+85,Chef,41,161,49800,mostly college,New York City,NY,11,2022
+86,Phlebotomist,22,106,40300,mostly high school,New York City,NY,11,2022
+87,Occupational Therapist,43,111,74500,mostly college,New York City,NY,11,2022
+88,Speech Pathologist,37,99,83400,mostly college,New York City,NY,11,2022
+89,Paralegal,42,57,67000,mostly college,New York City,NY,11,2022
+90,Carpenter,13,24,73300,mostly high school,New York City,NY,11,2022
+91,Welder,4,5,51100,mostly high school,New York City,NY,11,2022
+92,Plumber,12,18,70100,mostly high school,New York City,NY,11,2022
+93,Civil Engineer,21,49,104500,mostly college,New York City,NY,11,2022
+94,Dental Assistant,25,69,56300,mostly high school,New York City,NY,11,2022
+95,Massage Therapist,11,57,68100,mostly high school,New York City,NY,11,2022
+96,Oncology Nurse,14,157,99300,mostly college,New York City,NY,11,2022
+97,Psychologist,29,124,96700,mostly college,New York City,NY,11,2022
+98,HVAC Technician,10,22,62300,mostly high school,New York City,NY,11,2022
+99,Paramedic,14,93,55800,mostly high school,New York City,NY,11,2022
+100,Veterinarian,9,98,87400,mostly college,New York City,NY,11,2022
+101,Statistician,20,38,111900,mostly college,New York City,NY,11,2022
+103,Radiology Technician,10,32,65200,mostly high school,New York City,NY,11,2022
+104,Adjuster,8,22,72600,mostly college,New York City,NY,11,2022
+105,Psychiatrist,25,73,139100,mostly college,New York City,NY,11,2022
+106,Fabricator,3,9,66400,mostly high school,New York City,NY,11,2022
+107,Loan Officer,7,21,141500,mostly college,New York City,NY,11,2022
+108,Technical Writer,17,29,90600,mostly college,New York City,NY,11,2022
+109,Actuary,18,68,126500,mostly college,New York City,NY,11,2022
+110,Surgeon,11,21,174000,mostly college,New York City,NY,11,2022
+111,Urologist,6,6,136800,mostly college,New York City,NY,11,2022
+112,Oncologist,5,7,132200,mostly college,New York City,NY,11,2022
+113,Pathologist,9,11,59500,mostly college,New York City,NY,11,2022
+114,Dermatologist,4,4,146300,mostly college,New York City,NY,11,2022
+115,Gastroenterologist,3,3,147900,mostly college,New York City,NY,11,2022
+116,Neurologist,5,5,139300,mostly college,New York City,NY,11,2022
+117,Cardiologist,6,11,137300,mostly college,New York City,NY,11,2022
+118,Radiologist,6,15,124300,mostly college,New York City,NY,11,2022
+123,Marketing,434,704,131900,mostly college,New York City,NY,11,2022
+124,Supply Chain,23,54,108200,mostly college,New York City,NY,11,2022
+125,Manufacturing,31,53,91800,mostly college,New York City,NY,11,2022
+126,Production,96,143,69200,mostly college,New York City,NY,11,2022
+129,Scrum Master,23,49,109700,mostly college,New York City,NY,11,2022
+131,Quality,259,519,97800,mostly college,New York City,NY,11,2022
+134,Biologist,24,51,91800,mostly college,New York City,NY,11,2022
+136,Facility Management,16,20,93400,mostly college,New York City,NY,11,2022
+137,Construction,54,91,84700,mostly college,New York City,NY,11,2022
+138,Sales Representative,159,403,83200,mostly college,New York City,NY,11,2022
+139,Operations Manager,125,474,116600,mostly college,New York City,NY,11,2022
+140,Sales Associate,111,992,72000,mostly high school,New York City,NY,11,2022
+141,Assistant Manager,160,1093,99000,mostly high school,New York City,NY,11,2022
+143,Compliance Officer/Analyst,130,272,118900,mostly college,New York City,NY,11,2022
