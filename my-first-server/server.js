@@ -74,15 +74,32 @@ server.listen(3000, () => {
 });
 */
 
-const express = require('express')
-const app = express()
+const express = require('express');
+const path = require('path');
+const app = express();
 
-app.get('/', (req, res) =>{
-  res.sendFile('./public/index.html', {root: __dirname})
-})
+// Middleware to serve static files from the 'public' folder
+app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/about', (req,res) =>{
-  res.sendFile('./public/about.html', {root: __dirname})
-})
+// Route for the home page (index.html)
+app.get('/', (req, res) => {
+  console.log('Serving index.html');
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
 
-app.listen(3000, () => console.log('server is running on port 3000'))
+// Route for the about page (about.html)
+app.get('/about', (req, res) => {
+  console.log('Serving about.html'); // Log to confirm if this route is hit
+  res.sendFile(path.join(__dirname, 'public', 'about.html'));
+});
+
+// Wildcard route for handling undefined routes (404 page)
+app.get('*', (req, res) => {
+  console.log('Serving 404.html');
+  res.sendFile(path.join(__dirname, 'public', '404.html'));
+});
+
+// Start the server on port 3000
+app.listen(3000, () => {
+  console.log('Server is running on port 3000');
+});
